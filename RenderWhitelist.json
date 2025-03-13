@@ -1,8 +1,26 @@
 {
-  "Private": [{"id": "4912288978"}],
-  "Infinte": [{"id": "4642508720"}], 
-  "Premuim": [{"id": "4933693851"}],
-  "tag": [
-    {"id": "6556755", "tag": "idk"}
+  "WhitelistedUsers": [
+    {
+      "hash": "5937d1cac45edb722d98f69cfa13f6d312faf083063a8bce09bd974b5d82d392",
+      "attackable": false,
+      "level": 900,
+      "tags": [
+        {
+          "text": "baller",
+          "color": [
+            90,
+            0,
+            135
+          ]
+        }
+      ]
+    }
   ]
+  "BlacklistedUsers": [],
+  "Announcement": {
+    "text": "",
+    "expiretime": 0,
+    "targets": "all"
+  },
+  "KillVape": false
 }
